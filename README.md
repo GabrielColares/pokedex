@@ -1,4 +1,4 @@
-Pokedex
+# Pokedex
 Descrição
 
 Este projeto é uma Pokedex simples construída usando HTML, CSS e JavaScript. Ele permite que os usuários visualizem informações básicas sobre os Pokémon, incluindo nome, imagem e tipo.
